@@ -1,0 +1,16 @@
+li.item-body{
+    margin: 20px 5px;
+    display: block;
+    background-color: white;
+}
+.item-body section{
+    background-color: #FEFDFE;
+    padding: 10px 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.12),
+            0 2px 4px 0 rgba(0,0,0,0.08);
+}
+.item-body p{
+    background-color: #FEFDFE;
+    color: #606F7B;
+}
+

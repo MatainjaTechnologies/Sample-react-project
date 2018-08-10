@@ -1,0 +1,11 @@
+.bucket{
+    padding: 5px;
+    list-style: none;
+    margin-bottom: 1.3em;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+.title {
+    font-size: 20px;
+}
